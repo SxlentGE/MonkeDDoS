@@ -19,7 +19,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet V-DdoS")
+os.system("figlet MonkeDDoS")
 print
 print "Coded By : Mr.BL4Z3"
 print "Author   : T34m V18rs"
